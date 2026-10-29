@@ -54,7 +54,9 @@
       "slug": "jian-jun",
       "name": "剑君十二恨",
       "title": "剑君十二恨",
-      "status": "pending"
+      "status": "generated_and_reviewed",
+      "image": "jian-jun/character.png",
+      "metadata": "jian-jun/metadata.json"
     },
     {
       "order": 7,

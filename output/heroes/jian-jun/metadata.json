@@ -1,0 +1,15 @@
+{
+  "slug": "jian-jun",
+  "name": "剑君十二恨",
+  "title": "剑君十二恨",
+  "look": "官方短黑发、灰褐披袍与剑架造型的二维艺术演绎",
+  "source_page": "https://www.pili.com.tw/role-view.php?rid=jian",
+  "source_image": "https://www.pili.com.tw/img/role/640x741/jian_1.jpg?v=1587518833",
+  "identity_reference": "references/heroes/jian-jun.jpg",
+  "style_reference": "output/heroes/su-huan-zhen/character.png",
+  "generation_mode": "built-in image_gen",
+  "asset": "character.png",
+  "prompt": "prompt.txt",
+  "created_date": "2026-10-29",
+  "user_visual_acceptance": "pending"
+}

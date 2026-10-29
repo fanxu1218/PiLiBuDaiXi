@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "bf3703df399f788553e215c7060e19875895175f60cd890a8a38a39dbb79204e",
+  "bytes": 2953587,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "short black hair, stern face, gray-brown/berry cape, fur collar, beads and carried wooden sword rack retained",
+    "composition": "full head-to-boots figure, two hands holding shoulder strap and garment; compact three-level sheathed-sword rack within frame",
+    "style": "2D wuxia ink and painted fabric on matching golden paper; no text",
+    "limitations": "Full lower outfit and rack weapon details artistically reconstructed; not a named sword replica",
+    "user_acceptance": "pending"
+  }
+}
