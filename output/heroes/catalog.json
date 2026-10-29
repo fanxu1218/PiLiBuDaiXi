@@ -90,7 +90,9 @@
       "slug": "tan-wu-yu",
       "name": "谈无欲",
       "title": "脱俗仙子",
-      "status": "pending"
+      "status": "generated_and_reviewed",
+      "image": "tan-wu-yu/character.png",
+      "metadata": "tan-wu-yu/metadata.json"
     }
   ]
 }

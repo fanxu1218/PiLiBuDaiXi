@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "898938e02af94a184c7d7f033eccc706e2e63c966db5f2c46e8ccdb772044ccf",
+  "bytes": 2955344,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "swept white forelock, forehead dot, black/gold/silver crown with hanging blue-green beads, black-white high collar and jewelry preserved",
+    "composition": "complete figure with both shoes and crown, thinking gesture and one white decorated whisk; readable hands",
+    "style": "cohesive 2D line-and-cel painted full-body illustration on golden paper; no text",
+    "limitations": "Lower garments, shoes and cropped whisk tail artistically extrapolated from reference",
+    "user_acceptance": "pending"
+  }
+}
