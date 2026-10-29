@@ -18,7 +18,9 @@
       "slug": "yi-ye-shu",
       "name": "一页书",
       "title": "百世经纶",
-      "status": "pending"
+      "status": "generated_and_reviewed",
+      "image": "yi-ye-shu/character.png",
+      "metadata": "yi-ye-shu/metadata.json"
     },
     {
       "order": 3,

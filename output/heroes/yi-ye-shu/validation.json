@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "32b7614b39d2b2c53aa966509a756d06f100d987993efea08907ab9f8bb03458",
+  "bytes": 3032200,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "golden spiral hair cap, red forehead mark, white side locks, white-gold robes and red-brown/jade rosary preserved",
+    "composition": "single full body, cap and both shoes visible, hands and beads readable",
+    "style": "cohesive 2D ink and cel painting on golden paper; no text",
+    "limitations": "Unseen lower robe and shoes artistically extended from the official bust",
+    "user_acceptance": "pending"
+  }
+}

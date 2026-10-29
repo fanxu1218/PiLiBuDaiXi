@@ -1,0 +1,15 @@
+{
+  "slug": "yi-ye-shu",
+  "name": "一页书",
+  "title": "百世经纶",
+  "look": "官方角色页白金袈裟造型的二维艺术演绎",
+  "source_page": "https://www.pili.com.tw/role-view.php?rid=shu",
+  "source_image": "https://www.pili.com.tw/img/role/640x741/shu_1.jpg?v=1746000290",
+  "identity_reference": "references/heroes/yi-ye-shu.jpg",
+  "style_reference": "output/heroes/su-huan-zhen/character.png",
+  "generation_mode": "built-in image_gen",
+  "asset": "character.png",
+  "prompt": "prompt.txt",
+  "created_date": "2026-10-29",
+  "user_visual_acceptance": "pending"
+}
