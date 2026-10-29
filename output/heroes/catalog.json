@@ -27,7 +27,9 @@
       "slug": "ye-xiao-chai",
       "name": "叶小钗",
       "title": "刀狂剑痴",
-      "status": "pending"
+      "status": "generated_and_reviewed",
+      "image": "ye-xiao-chai/character.png",
+      "metadata": "ye-xiao-chai/metadata.json"
     },
     {
       "order": 4,

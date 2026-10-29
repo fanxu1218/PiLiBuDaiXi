@@ -38,6 +38,7 @@
 | --- | --- | --- |
 | 素还真 | 清香白莲 | [查看立绘](output/heroes/su-huan-zhen/character.png) |
 | 一页书 | 百世经纶 | [查看立绘](output/heroes/yi-ye-shu/character.png) |
+| 叶小钗 | 刀狂剑痴 | [查看立绘](output/heroes/ye-xiao-chai/character.png) |
 
 [本批角色目录](output/heroes/catalog.json)
 <!-- heroes:end -->

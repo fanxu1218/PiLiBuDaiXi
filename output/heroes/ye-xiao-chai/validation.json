@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "e6618f7eb8bf163da6a623ad3cd481b8fe7978fea848a3858d919f9955a7934c",
+  "bytes": 3088462,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "white hair, same-side diagonal red scar, silver/navy garment, dark scarf preserved",
+    "composition": "full body, two readable hands and shoes, two sheathed weapon hilts behind shoulder",
+    "style": "2D ink/cel painting on golden paper; no text",
+    "limitations": "Lower garments and simple sheathed blade silhouettes are artistic extensions; no claim of a named historical weapon replica",
+    "user_acceptance": "pending"
+  }
+}
