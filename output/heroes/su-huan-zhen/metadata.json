@@ -1,0 +1,15 @@
+{
+  "slug": "su-huan-zhen",
+  "name": "素还真",
+  "title": "清香白莲",
+  "look": "2001 图腾版的二维艺术演绎",
+  "source_page": "https://suhuanjen30.pili.com.tw/su/",
+  "source_image": "https://suhuanjen30.pili.com.tw/main/wp-content/themes/twentyseventeen/img/style/style2001.jpg",
+  "identity_reference": "references/heroes/su-huan-zhen-2001.jpg",
+  "style_reference": "output/qinjiaxian/frames/05-fengliu-kling-continuity.png",
+  "generation_mode": "built-in image_gen",
+  "asset": "character.png",
+  "prompt": "prompt.txt",
+  "created_date": "2026-10-29",
+  "user_visual_acceptance": "pending"
+}

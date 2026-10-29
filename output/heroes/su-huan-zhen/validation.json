@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "7f0b7b486ec5d6cdf74a0340f14d4fb719e885cad82d441cbe7b86e2cb8fbd3f",
+  "bytes": 2800270,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "red-purple lotus crown, white hair, forehead jewel, white-purple collar and robe preserved",
+    "composition": "single complete full-body character; crown and shoes visible",
+    "style": "2D ink-line and painted cel shading, golden paper, no visible text",
+    "limitations": "Lower robe and footwear reconstructed from the same design language; not an archival costume reproduction",
+    "user_acceptance": "pending"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "scope": "其他热门主角二维形象，十位经典主角，每位完成后单独提交并推送；仅图片。此名单不是实时人气排名。",
+  "target_count": 10,
+  "generation_mode": "built-in image_gen",
+  "style": "港台武侠漫画二维全身立绘、暖金纸面、2:3竖幅、无字",
+  "characters": [
+    {
+      "order": 1,
+      "slug": "su-huan-zhen",
+      "name": "素还真",
+      "title": "清香白莲",
+      "status": "generated_and_reviewed",
+      "image": "su-huan-zhen/character.png",
+      "metadata": "su-huan-zhen/metadata.json"
+    },
+    {
+      "order": 2,
+      "slug": "yi-ye-shu",
+      "name": "一页书",
+      "title": "百世经纶",
+      "status": "pending"
+    },
+    {
+      "order": 3,
+      "slug": "ye-xiao-chai",
+      "name": "叶小钗",
+      "title": "刀狂剑痴",
+      "status": "pending"
+    },
+    {
+      "order": 4,
+      "slug": "ao-xiao-hong-chen",
+      "name": "傲笑红尘",
+      "title": "傲笑红尘",
+      "status": "pending"
+    },
+    {
+      "order": 5,
+      "slug": "luan-shi-kuang-dao",
+      "name": "乱世狂刀",
+      "title": "乱世狂刀",
+      "status": "pending"
+    },
+    {
+      "order": 6,
+      "slug": "jian-jun",
+      "name": "剑君十二恨",
+      "title": "剑君十二恨",
+      "status": "pending"
+    },
+    {
+      "order": 7,
+      "slug": "shu-lou-long-su",
+      "name": "疏楼龙宿",
+      "title": "儒门龙首",
+      "status": "pending"
+    },
+    {
+      "order": 8,
+      "slug": "jian-zi-xian-ji",
+      "name": "剑子仙迹",
+      "title": "道教先天",
+      "status": "pending"
+    },
+    {
+      "order": 9,
+      "slug": "fo-jian-fen-shuo",
+      "name": "佛剑分说",
+      "title": "佛门先天",
+      "status": "pending"
+    },
+    {
+      "order": 10,
+      "slug": "tan-wu-yu",
+      "name": "谈无欲",
+      "title": "脱俗仙子",
+      "status": "pending"
+    }
+  ]
+}
