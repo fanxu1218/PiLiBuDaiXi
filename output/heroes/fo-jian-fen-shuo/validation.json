@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "15ebbbc88232a79d05a44bde882d195c57556200638787bc928073a9c02f4f96",
+  "bytes": 2997188,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "large silver spiral hair coils, white side locks, forehead gem, wooden rosary and white-gold robes preserved",
+    "composition": "single full body with crown-to-boots framing, both Buddhist gestures readable",
+    "style": "2D ink and painted embroidery, matching golden paper, no text",
+    "limitations": "Lower robes and shoes extrapolated; unseen Fo Die weapon/case intentionally outside this costume portrait",
+    "user_acceptance": "pending"
+  }
+}

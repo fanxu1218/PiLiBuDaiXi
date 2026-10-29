@@ -44,6 +44,7 @@
 | 剑君十二恨 | 剑君十二恨 | [查看立绘](output/heroes/jian-jun/character.png) |
 | 疏楼龙宿 | 儒门龙首 | [查看立绘](output/heroes/shu-lou-long-su/character.png) |
 | 剑子仙迹 | 道教先天 | [查看立绘](output/heroes/jian-zi-xian-ji/character.png) |
+| 佛剑分说 | 佛门先天 | [查看立绘](output/heroes/fo-jian-fen-shuo/character.png) |
 
 [本批角色目录](output/heroes/catalog.json)
 <!-- heroes:end -->

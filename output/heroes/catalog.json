@@ -81,7 +81,9 @@
       "slug": "fo-jian-fen-shuo",
       "name": "佛剑分说",
       "title": "佛门先天",
-      "status": "pending"
+      "status": "generated_and_reviewed",
+      "image": "fo-jian-fen-shuo/character.png",
+      "metadata": "fo-jian-fen-shuo/metadata.json"
     },
     {
       "order": 10,

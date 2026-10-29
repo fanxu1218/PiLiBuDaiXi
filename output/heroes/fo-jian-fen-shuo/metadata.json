@@ -1,0 +1,15 @@
+{
+  "slug": "fo-jian-fen-shuo",
+  "name": "佛剑分说",
+  "title": "佛门先天",
+  "look": "官方银色螺髻与白金佛衣造型的二维艺术演绎",
+  "source_page": "https://www.pili.com.tw/role-view/fojianfenshui/",
+  "source_image": "https://www.pili.com.tw/img/role/640x741/fojianfenshui_1.jpg?v=1622538112",
+  "identity_reference": "references/heroes/fo-jian-fen-shuo.jpg",
+  "style_reference": "output/heroes/su-huan-zhen/character.png",
+  "generation_mode": "built-in image_gen",
+  "asset": "character.png",
+  "prompt": "prompt.txt",
+  "created_date": "2026-10-29",
+  "user_visual_acceptance": "pending"
+}
