@@ -1,0 +1,15 @@
+{
+  "slug": "shu-lou-long-su",
+  "name": "疏楼龙宿",
+  "title": "儒门龙首",
+  "look": "官方紫鳞衣与珠冠造型的二维艺术演绎",
+  "source_page": "https://www.pili.com.tw/role-view/longshou/",
+  "source_image": "https://www.pili.com.tw/img/role/640x741/longshou_1.jpg?v=1762397584",
+  "identity_reference": "references/heroes/shu-lou-long-su.jpg",
+  "style_reference": "output/heroes/su-huan-zhen/character.png",
+  "generation_mode": "built-in image_gen",
+  "asset": "character.png",
+  "prompt": "prompt.txt",
+  "created_date": "2026-10-29",
+  "user_visual_acceptance": "pending"
+}

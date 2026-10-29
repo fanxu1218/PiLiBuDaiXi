@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "d69ee0debf0a5fbb8c642c4852ada852d38538c293ce98e9f0a8d758568ea00e",
+  "bytes": 3228293,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "jewel-and-dragon purple/gold crown, swept silver forelock, forehead bead marks, iridescent scaled collar and purple/blue layers preserved",
+    "composition": "full crown-to-boots figure, one decorated fan, two clear hands",
+    "style": "high-detail 2D wuxia on matching golden paper, no text",
+    "limitations": "Lower robe, boots and fan panel ornament extrapolated in the reference design language",
+    "user_acceptance": "pending"
+  }
+}

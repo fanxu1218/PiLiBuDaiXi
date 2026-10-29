@@ -34,7 +34,7 @@
 
 每位一张完整全身立绘，沿用港台武侠漫画与暖金纸面风格；造型为艺术化演绎。来源、提示词与检查记录随图片保存。
 
-| 角色 | 称号 | 图片 |
+| 角色 | 称号／身份 | 图片 |
 | --- | --- | --- |
 | 素还真 | 清香白莲 | [查看立绘](output/heroes/su-huan-zhen/character.png) |
 | 一页书 | 百世经纶 | [查看立绘](output/heroes/yi-ye-shu/character.png) |
@@ -42,6 +42,7 @@
 | 傲笑红尘 | 傲笑红尘 | [查看立绘](output/heroes/ao-xiao-hong-chen/character.png) |
 | 乱世狂刀 | 乱世狂刀 | [查看立绘](output/heroes/luan-shi-kuang-dao/character.png) |
 | 剑君十二恨 | 剑君十二恨 | [查看立绘](output/heroes/jian-jun/character.png) |
+| 疏楼龙宿 | 儒门龙首 | [查看立绘](output/heroes/shu-lou-long-su/character.png) |
 
 [本批角色目录](output/heroes/catalog.json)
 <!-- heroes:end -->

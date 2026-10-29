@@ -63,7 +63,9 @@
       "slug": "shu-lou-long-su",
       "name": "疏楼龙宿",
       "title": "儒门龙首",
-      "status": "pending"
+      "status": "generated_and_reviewed",
+      "image": "shu-lou-long-su/character.png",
+      "metadata": "shu-lou-long-su/metadata.json"
     },
     {
       "order": 8,
