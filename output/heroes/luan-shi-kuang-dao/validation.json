@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "dccbee516115d20985ffd823fd7f90915f018bd2e8b136d992cd3a5e678a465b",
+  "bytes": 3120301,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "tousled white mane, forehead gold ornament, fur collar, dark leather/metal costume and lion-head saber retained",
+    "composition": "strong full-body stance, single sheathed saber, two hands gripping/supporting it, boots visible",
+    "style": "detailed 2D wuxia illustration on matching golden paper; no text",
+    "limitations": "Lower battle dress, knees and boots artistically extrapolated from official bust",
+    "user_acceptance": "pending"
+  }
+}

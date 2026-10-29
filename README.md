@@ -40,6 +40,7 @@
 | 一页书 | 百世经纶 | [查看立绘](output/heroes/yi-ye-shu/character.png) |
 | 叶小钗 | 刀狂剑痴 | [查看立绘](output/heroes/ye-xiao-chai/character.png) |
 | 傲笑红尘 | 傲笑红尘 | [查看立绘](output/heroes/ao-xiao-hong-chen/character.png) |
+| 乱世狂刀 | 乱世狂刀 | [查看立绘](output/heroes/luan-shi-kuang-dao/character.png) |
 
 [本批角色目录](output/heroes/catalog.json)
 <!-- heroes:end -->

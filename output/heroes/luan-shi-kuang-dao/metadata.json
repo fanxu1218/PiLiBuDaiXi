@@ -1,0 +1,15 @@
+{
+  "slug": "luan-shi-kuang-dao",
+  "name": "乱世狂刀",
+  "title": "乱世狂刀",
+  "look": "官方毛领战衣与狮头宝刀造型的二维艺术演绎",
+  "source_page": "https://www.pili.com.tw/role-view/dao/",
+  "source_image": "https://www.pili.com.tw/img/role/640x741/dao_1.jpg?v=1587519422",
+  "identity_reference": "references/heroes/luan-shi-kuang-dao.jpg",
+  "style_reference": "output/heroes/su-huan-zhen/character.png",
+  "generation_mode": "built-in image_gen",
+  "asset": "character.png",
+  "prompt": "prompt.txt",
+  "created_date": "2026-10-29",
+  "user_visual_acceptance": "pending"
+}

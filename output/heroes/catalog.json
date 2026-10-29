@@ -45,7 +45,9 @@
       "slug": "luan-shi-kuang-dao",
       "name": "乱世狂刀",
       "title": "乱世狂刀",
-      "status": "pending"
+      "status": "generated_and_reviewed",
+      "image": "luan-shi-kuang-dao/character.png",
+      "metadata": "luan-shi-kuang-dao/metadata.json"
     },
     {
       "order": 6,
