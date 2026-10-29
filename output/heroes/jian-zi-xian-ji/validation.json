@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "46fbe451b5f0ee96efa28d3201a27bd9f156c526e1cf2fa335cba17b4d516cee",
+  "bytes": 2820468,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "silver topknot and openwork crown, curved forelock, white-gray cloud-trimmed robes and reference sword silhouette preserved",
+    "composition": "single side/back-view figure turning head; crown, sword tip and boots in frame",
+    "style": "cohesive 2D line and painted white fabric on golden paper; no text",
+    "limitations": "Lower robe and footwear extrapolated; sword/sheath details interpreted from reference silhouette",
+    "user_acceptance": "pending"
+  }
+}

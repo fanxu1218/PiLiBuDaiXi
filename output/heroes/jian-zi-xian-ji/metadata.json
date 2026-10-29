@@ -1,0 +1,15 @@
+{
+  "slug": "jian-zi-xian-ji",
+  "name": "剑子仙迹",
+  "title": "道教先天",
+  "look": "官方白灰道袍与古尘背负造型的二维艺术演绎",
+  "source_page": "https://www.pili.com.tw/role-view/jiantzu/",
+  "source_image": "https://www.pili.com.tw/img/role/640x741/jiantzu_1.jpg?v=1587554434",
+  "identity_reference": "references/heroes/jian-zi-xian-ji.jpg",
+  "style_reference": "output/heroes/su-huan-zhen/character.png",
+  "generation_mode": "built-in image_gen",
+  "asset": "character.png",
+  "prompt": "prompt.txt",
+  "created_date": "2026-10-29",
+  "user_visual_acceptance": "pending"
+}

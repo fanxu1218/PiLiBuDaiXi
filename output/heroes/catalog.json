@@ -72,7 +72,9 @@
       "slug": "jian-zi-xian-ji",
       "name": "剑子仙迹",
       "title": "道教先天",
-      "status": "pending"
+      "status": "generated_and_reviewed",
+      "image": "jian-zi-xian-ji/character.png",
+      "metadata": "jian-zi-xian-ji/metadata.json"
     },
     {
       "order": 9,
