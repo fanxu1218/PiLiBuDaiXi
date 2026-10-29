@@ -1,0 +1,18 @@
+{
+  "format": "PNG",
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "bc1ec539a54232442d637da3180e8ea732d7c4e8391dd41624490f148deaecde",
+  "bytes": 3008522,
+  "image_integrity": "passed",
+  "visual_review": {
+    "identity_features": "wide layered silver-gray crown, swept-back white hair, stern mature face, gray-brown outfit and white pearl pendant preserved",
+    "composition": "complete crown and both boots; two natural hands and one sheathed sword",
+    "style": "cohesive golden-paper 2D illustration, clear lines and fabric folds; no text",
+    "limitations": "Lower outfit and unnamed sword sheath artistically extended from bust reference",
+    "user_acceptance": "pending"
+  }
+}

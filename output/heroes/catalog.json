@@ -36,7 +36,9 @@
       "slug": "ao-xiao-hong-chen",
       "name": "傲笑红尘",
       "title": "傲笑红尘",
-      "status": "pending"
+      "status": "generated_and_reviewed",
+      "image": "ao-xiao-hong-chen/character.png",
+      "metadata": "ao-xiao-hong-chen/metadata.json"
     },
     {
       "order": 5,

@@ -1,0 +1,15 @@
+{
+  "slug": "ao-xiao-hong-chen",
+  "name": "傲笑红尘",
+  "title": "傲笑红尘",
+  "look": "官方灰褐宽冠造型的二维艺术演绎",
+  "source_page": "https://www.pili.com.tw/role-view.php?rid=au",
+  "source_image": "https://www.pili.com.tw/img/role/640x741/au_1.jpg?v=1587555662",
+  "identity_reference": "references/heroes/ao-xiao-hong-chen.jpg",
+  "style_reference": "output/heroes/su-huan-zhen/character.png",
+  "generation_mode": "built-in image_gen",
+  "asset": "character.png",
+  "prompt": "prompt.txt",
+  "created_date": "2026-10-29",
+  "user_visual_acceptance": "pending"
+}
