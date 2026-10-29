@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01-classic.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "02-wish.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "03-blue.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "04-super.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "05-fengliu.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "06-blackwhite.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "07-third.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "08-lover.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "09-daoshuo.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  }
+]

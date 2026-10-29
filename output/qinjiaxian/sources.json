@@ -1,0 +1,71 @@
+{
+  "retrieved": "2026-10-27",
+  "main_page": "https://www.newton.com.tw/wiki/秦假仙",
+  "remake_page": "https://www.newton.com.tw/wiki/秦假仙/23340562",
+  "reference_images": [
+    {
+      "name": "classic-portrait",
+      "url": "https://www.newton.com.tw/img/8/1d3/nBnauMTZlF2MzQGMwYjY2QjMzY2YkVmMlZDN0YWMyYmN0EGMiNmY3E2Y2Q2LtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "path": "references/qinjiaxian/classic-portrait.jpg",
+      "ok": true,
+      "bytes": 66956
+    },
+    {
+      "name": "fengliu-2011",
+      "url": "https://www.newton.com.tw/img/e/b22/nBnaugTO5MTZ2MWY1QmYxQjZiBDNhNWZzgzMmJzY0EGN5cDOmNDNkhDO3Q2LtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "path": "references/qinjiaxian/fengliu-2011.jpg",
+      "ok": true,
+      "bytes": 12692
+    },
+    {
+      "name": "super-2005",
+      "url": "https://www.newton.com.tw/img/1/157/nBnauYmMxkTZwgjYmNTMyEDMjNjN1U2MjNDOilDZjdzYjNTYkRWZyYWYkF2LtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "path": "references/qinjiaxian/super-2005.jpg",
+      "ok": true,
+      "bytes": 14629
+    },
+    {
+      "name": "blue-2002",
+      "url": "https://www.newton.com.tw/img/9/baa/nBnauMGZhdjZxEjZlVGN5QTN5gDMzQjZ3gDOiFTNmFWYmRmZ2EDZ5IWMmN2LtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "path": "references/qinjiaxian/blue-2002.jpg",
+      "ok": true,
+      "bytes": 13067
+    },
+    {
+      "name": "wish-2000",
+      "url": "https://www.newton.com.tw/img/a/91f/nBnaukTZ5QTZkJjY5ATMkhTN3kTMmZTMhNTM4MjM5ADN1kDNzEjYjFjYjhzLtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "path": "references/qinjiaxian/wish-2000.jpg",
+      "ok": true,
+      "bytes": 18602
+    },
+    {
+      "name": "third-2016",
+      "url": "https://www.newton.com.tw/img/e/770/nBnaukTOhNWOkNjNxQWYwQjZycTO2QTM3gjYwUTOkFjNwUmN4AzY0EDM4E2LtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "path": "references/qinjiaxian/third-2016.jpg",
+      "ok": true,
+      "bytes": 17608
+    },
+    {
+      "name": "lover-2018",
+      "url": "https://www.newton.com.tw/img/0/151/nBnauIGNyETN0YjY0MmYllTMmJmYhNTYwEWYzMzYmFmNzcjZwYGO3YGNyAzLtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "path": "references/qinjiaxian/lover-2018.jpg",
+      "ok": true,
+      "bytes": 16327
+    },
+    {
+      "name": "blackwhite-classic",
+      "url": "https://www.newton.com.tw/img/6/6f4/nBnauEjZhhzMxITOxEjMiJjZwYWNkdTN3EWM0MWN2MWYyUzMwUTOldDOiNzLtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "path": "references/qinjiaxian/blackwhite-classic.jpg",
+      "ok": true,
+      "bytes": 174598
+    },
+    {
+      "name": "daoshuo-2019",
+      "url": "https://www.newton.com.tw/img/9/225/nBnauMmZ1YGOwIDMidTYwUTOzEDNyIWZkFjNjFDM5EWO5gjY0ITOlBzMlFzLtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "path": "references/qinjiaxian/daoshuo-2019.jpg",
+      "ok": true
+    }
+  ],
+  "scope": "Nine representative forms: ordinary costume changes plus named transformations. Not a complete chronology. The black-and-white costume and classic base have no claimed first-appearance date. Artistic reconstruction of unseen lower garments and some ornaments.",
+  "review": "Viewed all used reference images and all three generated plates. Generated nameplates visually checked. User visual acceptance pending."
+}

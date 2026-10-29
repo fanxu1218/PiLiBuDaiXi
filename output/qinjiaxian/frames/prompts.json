@@ -1,0 +1,60 @@
+{
+  "mode": "built-in image_gen",
+  "base": "Reference-preserving extraction for an animation keyframe. Isolate ONLY the {POS} character ({NAME}) from the supplied character lineup. The supplied image is the EDIT TARGET, not inspiration. Preserve the original drawing's exact character design, face, expression, pose, headwear, every visible garment's color blocking, ink line style, costume ornaments and accessories; do not redesign, beautify or invent a new pose. Remove the other two characters and ALL titles, labels, dates and lettering. Return a single full-body character centered on the same warm ivory paper backdrop, portrait 2:3 canvas, preferably 1024x1536. Character occupies 82% of canvas height with generous clean margins above the headpiece and below the feet; full character from tallest headpiece to shoe soles is visible. Keep the body center at horizontal center, with feet on a consistent floor line around 92% canvas height, no border, no text. Maintain hand-drawn Hong Kong/Taiwan wuxia comic 2D style. Not 3D, not realistic photo, not chibi. No extra characters, no collage and no extra props. The resulting keyframe will be used unchanged as an animation first/last frame.",
+  "specs": [
+    {
+      "n": "01-classic",
+      "plate": "01-classic-and-millennium.png",
+      "pos": "LEFT",
+      "name": "classic original Qin Jia Xian with yellow comic face, tiny feather crest, dark olive robe and beige ruffle scarf"
+    },
+    {
+      "n": "02-wish",
+      "plate": "01-classic-and-millennium.png",
+      "pos": "CENTER",
+      "name": "wish vendor 許願仙 with ivory blue jester hat, red pom-poms, blue white red costume and small golden staff"
+    },
+    {
+      "n": "03-blue",
+      "plate": "01-classic-and-millennium.png",
+      "pos": "RIGHT",
+      "name": "藍俠一枝花 with crimson long hair, dark blue perforated mask and eyepatch, icy blue silver robe and rose"
+    },
+    {
+      "n": "04-super",
+      "plate": "02-middle-period.png",
+      "pos": "LEFT",
+      "name": "超級先行人 with pink bald head, tall narrow black cone hat, round glasses, white black red gold robe"
+    },
+    {
+      "n": "05-fengliu",
+      "plate": "02-middle-period.png",
+      "pos": "CENTER",
+      "name": "風流齋主 with complete silver face mask, long black hair, high topknot, flowing pale lavender white robe and white whisk"
+    },
+    {
+      "n": "06-blackwhite",
+      "plate": "02-middle-period.png",
+      "pos": "RIGHT",
+      "name": "ordinary Qin Jia Xian black white costume with red forehead circlet, curled moustache, gold rings, black outer robe white sleeves red cords"
+    },
+    {
+      "n": "07-third",
+      "plate": "03-later-and-remake.png",
+      "pos": "LEFT",
+      "name": "天下第三人 with voluminous honey brown hair, gold crown, brown curled moustache and ornate white gold robe"
+    },
+    {
+      "n": "08-lover",
+      "plate": "03-later-and-remake.png",
+      "pos": "CENTER",
+      "name": "情公子 with refined clean-shaven pale face, long black hair, silver blue crown, navy blue white ornate robe"
+    },
+    {
+      "n": "09-daoshuo",
+      "plate": "03-later-and-remake.png",
+      "pos": "RIGHT",
+      "name": "刀說異數 Qin with fluffy ivory fur hat gold beads, expressive eyes, dark short moustache beard and blue purple gold patchwork costume"
+    }
+  ]
+}

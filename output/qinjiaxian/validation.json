@@ -1,0 +1,31 @@
+{
+  "images": [
+    {
+      "file": "01-classic-and-millennium.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3323775,
+      "decoded": true
+    },
+    {
+      "file": "02-middle-period.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3096802,
+      "decoded": true
+    },
+    {
+      "file": "03-later-and-remake.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3486562,
+      "decoded": true
+    }
+  ],
+  "figures_per_plate": 3,
+  "total_representative_forms": 9,
+  "visual_acceptance": "pending-user-review"
+}

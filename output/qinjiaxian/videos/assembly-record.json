@@ -1,0 +1,29 @@
+{
+  "status": "completed",
+  "sources": [
+    {"file": "part-a.mp4", "provider": "即梦AI", "native_dimensions": [720, 1280], "selected_seconds": [0, 15]},
+    {"file": "part-b-kling.mp4", "provider": "可灵AI", "native_dimensions": [1080, 1920], "selected_seconds": [0, 15]}
+  ],
+  "output": "qin-jia-xian-transitions.mp4",
+  "output_dimensions": [1080, 1920],
+  "upscaling": "Part A resized with Lanczos; no new detail generated",
+  "frame_rate": "24/1",
+  "frame_count": 711,
+  "container_duration_seconds": 29.666,
+  "video_duration_seconds": 29.625,
+  "seam": {"effect": "dissolve", "start_seconds": 14.666666667, "duration_seconds": 0.333333333},
+  "audio": {"effect": "triangular crossfade", "duration_seconds": 0.333333333, "codec": "AAC", "sample_rate": 48000, "channels": 2},
+  "video_encoding": {"codec": "H.264", "crf": 16, "pixel_format": "yuv420p", "faststart": true},
+  "file_bytes": 46421112,
+  "validation": {
+    "full_decode_exit_code": 0,
+    "full_clip_contact_sheet": "merged-review.jpg",
+    "seam_contact_sheet": "merged-seam-review.jpg",
+    "look_order_preserved": true,
+    "seam_samples_reviewed": "8 frames per second from 14 to 16 seconds",
+    "limitations": "Source color/style differences remain; brief double outlines occur during the dissolve",
+    "user_visual_acceptance": "pending"
+  },
+  "original_sources_preserved": true,
+  "generation_credits_used_for_merge": 0
+}

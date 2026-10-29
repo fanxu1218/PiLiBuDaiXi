@@ -1,0 +1,223 @@
+{
+  "service": "即梦AI",
+  "workspace_url": "https://jimeng.jianying.com/ai-tool/generate?workspace=23892970260748",
+  "model": "Seedance 2.5",
+  "mode": "全能参考",
+  "resolution": "720P",
+  "aspect_ratio": "9:16",
+  "initial_credits": 627,
+  "part_a": {
+    "duration_seconds": 15,
+    "credits_charged": 300,
+    "remaining_credits_after_submission": 327,
+    "references": [
+      "01-classic.png",
+      "02-wish.png",
+      "03-blue.png",
+      "04-super.png",
+      "05-fengliu.png"
+    ],
+    "status": "downloaded_and_sampled",
+    "timeline": [
+      {
+        "seconds": [
+          0,
+          1.5
+        ],
+        "look": "经典本相",
+        "action": "挑眉，整理羽饰"
+      },
+      {
+        "seconds": [
+          1.5,
+          3.1
+        ],
+        "transition": "宽袖遮挡至许愿仙"
+      },
+      {
+        "seconds": [
+          3.1,
+          4.8
+        ],
+        "look": "许愿仙",
+        "action": "举法杖，歪头亮相"
+      },
+      {
+        "seconds": [
+          4.8,
+          6.4
+        ],
+        "transition": "法杖与蓝色烟带遮挡至蓝侠"
+      },
+      {
+        "seconds": [
+          6.4,
+          8.1
+        ],
+        "look": "蓝侠一枝花",
+        "action": "侧目举玫瑰，红发落定"
+      },
+      {
+        "seconds": [
+          8.1,
+          9.7
+        ],
+        "transition": "红发宽袖遮挡至超级先行人"
+      },
+      {
+        "seconds": [
+          9.7,
+          11.4
+        ],
+        "look": "超级先行人",
+        "action": "扶眼镜探头"
+      },
+      {
+        "seconds": [
+          11.4,
+          13
+        ],
+        "transition": "合拢白袖遮挡至风流斋主"
+      },
+      {
+        "seconds": [
+          13,
+          15
+        ],
+        "look": "风流斋主",
+        "action": "拂尘轻扫后回到参考姿态，末0.7秒稳定"
+      }
+    ],
+    "local_file": "part-a.mp4",
+    "actual_dimensions": [
+      720,
+      1280
+    ],
+    "sample_review": {
+      "all_five_forms_present": true,
+      "order_correct": true,
+      "gross_costume_mix_or_duplicate_person_not_seen": true,
+      "review_basis": "one-second frame samples plus browser playback observations; final subjective motion acceptance remains with user"
+    },
+    "nominal_r_frame_rate": "60/1",
+    "average_frame_rate": "21660/901",
+    "frame_count": 361,
+    "video_duration_seconds": 15.016667
+  },
+  "part_b": {
+    "duration_seconds": 15,
+    "planned_credits": 300,
+    "references": [
+      "05-fengliu.png",
+      "06-blackwhite.png",
+      "07-third.png",
+      "08-lover.png",
+      "09-daoshuo.png"
+    ],
+    "status": "failed_platform_copyright_check",
+    "timeline": [
+      {
+        "seconds": [
+          0,
+          1.5
+        ],
+        "look": "风流斋主",
+        "action": "前0.7秒保持参考姿态，再转目"
+      },
+      {
+        "seconds": [
+          1.5,
+          3.1
+        ],
+        "transition": "拂尘遮挡至黑白常服"
+      },
+      {
+        "seconds": [
+          3.1,
+          4.8
+        ],
+        "look": "黑白常服",
+        "action": "挑眉捋须，金环红绳摆动"
+      },
+      {
+        "seconds": [
+          4.8,
+          6.4
+        ],
+        "transition": "展袖浅金云遮挡至天下第三人"
+      },
+      {
+        "seconds": [
+          6.4,
+          8.1
+        ],
+        "look": "天下第三人",
+        "action": "挺胸摊手亮相"
+      },
+      {
+        "seconds": [
+          8.1,
+          9.7
+        ],
+        "transition": "白金宽袖遮挡至情公子"
+      },
+      {
+        "seconds": [
+          9.7,
+          11.4
+        ],
+        "look": "情公子",
+        "action": "侧目转头，保留无须面容"
+      },
+      {
+        "seconds": [
+          11.4,
+          13
+        ],
+        "transition": "抬袖踏步遮挡至刀说版"
+      },
+      {
+        "seconds": [
+          13,
+          15
+        ],
+        "look": "刀说异数版",
+        "action": "抬指，机灵得意，末1秒稳定收尾"
+      }
+    ],
+    "credits_charged": 300,
+    "remaining_credits_after_submission": 27,
+    "platform_message": "生成的视频里包含受版权保护元素",
+    "credits_refunded": 300,
+    "remaining_credits_after_refund": 327,
+    "user_decision": "先交付已完成的上篇"
+  },
+  "style_constraints": [
+    "米色宣纸背景，淡墨落地影",
+    "全身完整，固定机位，人物居中约82%画面高度",
+    "港台武侠二维手绘，衣纹、刺绣、发型和脸对应参考图",
+    "换装在遮挡期间完成，遮挡外不混合五官与服装",
+    "衣袖、头发、流苏有惯性，人物有真实重心动作",
+    "无文字、水印、额外人物或人声对白"
+  ],
+  "total_credits_charged": 300,
+  "remaining_credits": 327,
+  "assembly_plan": {
+    "output_file": "qin-jia-xian-transitions.mp4",
+    "frame_rate": 24,
+    "seam": "one-third second dissolve within the shared Fengliu pose",
+    "retain_original_downloads": true,
+    "video_encoding": "H.264 CRF 16",
+    "audio": "AAC, one-third second crossfade",
+    "subjective_visual_acceptance": "pending user review",
+    "status": "completed_using_kling_part_b",
+    "assembly_record": "assembly-record.json"
+  },
+  "total_net_credits_used": 300,
+  "delivery": {
+    "file": "part-a.mp4",
+    "scope": "上篇，经典本相、许愿仙、蓝侠一枝花、超级先行人、风流斋主",
+    "user_visual_acceptance": "pending",
+    "full_decode_exit_code": 0
+  }
+}

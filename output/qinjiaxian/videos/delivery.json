@@ -1,0 +1,17 @@
+{
+  "current_file": "qin-jia-xian-transitions-kling.mp4",
+  "description": "可灵重做上篇，与可灵下篇拼接的完整版本",
+  "duration_seconds": 26.75,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "frame_rate": 24,
+  "assembly_record": "assembly-kling-record.json",
+  "parts": [
+    "part-a-kling.mp4",
+    "part-b-kling.mp4"
+  ],
+  "previous_file": "qin-jia-xian-transitions.mp4",
+  "user_visual_acceptance": "pending"
+}

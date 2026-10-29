@@ -1,0 +1,75 @@
+{
+  "status": "completed",
+  "current_delivery": true,
+  "sources": [
+    {
+      "file": "part-a-kling.mp4",
+      "provider": "可灵AI",
+      "native_dimensions": [
+        1080,
+        1920
+      ],
+      "selected_seconds": [
+        0,
+        12
+      ]
+    },
+    {
+      "file": "part-b-kling.mp4",
+      "provider": "可灵AI",
+      "native_dimensions": [
+        1080,
+        1920
+      ],
+      "selected_seconds": [
+        0,
+        15
+      ]
+    }
+  ],
+  "output": "qin-jia-xian-transitions-kling.mp4",
+  "output_dimensions": [
+    1080,
+    1920
+  ],
+  "upscaling": false,
+  "frame_rate": "24/1",
+  "frame_count": 642,
+  "duration_seconds": 26.75,
+  "file_bytes": 47083666,
+  "seam": {
+    "effect": "dissolve",
+    "start_seconds": 11.75,
+    "duration_seconds": 0.25,
+    "continuity_reference": "Part A final reference is the first frame of Part B"
+  },
+  "audio": {
+    "effect": "triangular crossfade",
+    "duration_seconds": 26.75,
+    "codec": "AAC",
+    "sample_rate": 48000,
+    "channels": 2
+  },
+  "video_encoding": {
+    "codec": "H.264",
+    "crf": 16,
+    "pixel_format": "yuv420p",
+    "faststart": true
+  },
+  "validation": {
+    "full_decode_exit_code": 0,
+    "full_clip_contact_sheet": "merged-kling-review.jpg",
+    "seam_contact_sheet": "merged-kling-seam-review.jpg",
+    "all_nine_looks_present_in_order": true,
+    "seam_samples_reviewed": "8 frames per second from 11 to 13 seconds",
+    "seam_review": "Matching golden paper, centered scale and shared Fengliu pose; no gross double-outline artifact seen in seam samples",
+    "user_visual_acceptance": "pending"
+  },
+  "original_sources_and_previous_compilation_preserved": true,
+  "generation_credits": {
+    "part_a": 180,
+    "part_b": 225,
+    "total": 405,
+    "current_balance_verified_after_refresh": 4
+  }
+}

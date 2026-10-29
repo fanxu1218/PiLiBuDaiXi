@@ -1,0 +1,4 @@
+.DS_Store
+
+# Downloaded source material is kept locally; source URLs are recorded in output/.
+references/
